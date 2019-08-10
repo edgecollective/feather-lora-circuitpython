@@ -1,1 +1,1 @@
-# feather-lora-circuitpython
+# decagon-5te-circuitpython
