@@ -1,0 +1,1 @@
+with the potted pressure sensor, connect green to 'RX' on feather, and yellow (unused) to 'TX'
